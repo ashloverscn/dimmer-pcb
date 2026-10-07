@@ -80,7 +80,7 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 4)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
@@ -3440,6 +3440,81 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(gr_poly
+		(pts
+			(xy 102.53 113.26) (xy 96.530568 113.26) (xy 96.539034 111.77) (xy 102.53 111.77)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "62014532-f45f-4cc5-8ee6-d53cb56599ff")
+	)
+	(gr_poly
+		(pts
+			(xy 95.46 116.83) (xy 110.85 116.88) (xy 110.84 118.22) (xy 95.48 118.19) (xy 95.49 116.82)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "10a2ec11-8698-4a98-8158-0a31cd19b43e")
+	)
+	(gr_poly
+		(pts
+			(xy 94.96 124.02) (xy 96.13 124.02) (xy 96.13 117.58) (xy 94.87 117.58) (xy 94.86 124.02) (xy 94.89 124.02)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "6441de91-587c-464c-a007-3a3b96e91db4")
+	)
+	(gr_poly
+		(pts
+			(xy 104.94 123.29) (xy 104.94 124.67) (xy 111.43 124.68) (xy 112.23 124.4) (xy 112.38 124.27) (xy 110.87 123.32)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "77180e8c-2554-41be-8f3b-2d9e0efef96d")
+	)
+	(gr_poly
+		(pts
+			(xy 96.69 129.67) (xy 98.5 129.67) (xy 98.75 129.57) (xy 98.97 129.4) (xy 99.783291 128.636502) (xy 101.07863 127.158487)
+			(xy 104.12 127.08) (xy 104.09 125.91) (xy 100.65 125.97) (xy 98.29 128.41) (xy 96.69 128.41)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "9f79fef2-ce40-4dcf-abff-ea38b27a0184")
+	)
+	(gr_poly
+		(pts
+			(xy 101.95 111.77) (xy 104.73 108.96) (xy 104.81 108.92) (xy 113.57 108.94) (xy 113.57 108.91) (xy 115.009328 110.458228)
+			(xy 115.08 110.96) (xy 115.13 120.91) (xy 112.55 123.57) (xy 111.66 122.707533) (xy 113.92 120.56)
+			(xy 113.9 111.04) (xy 112.95061 110.085315) (xy 105.22 110.13) (xy 102.78 112.59)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "2d9e05d6-2ea0-4e65-8d7e-d4ceb2f7b725")
 	)
 	(gr_rect
 		(start 89.25 106.5)
