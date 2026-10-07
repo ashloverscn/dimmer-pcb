@@ -2276,7 +2276,7 @@
 			(uuid "4282c862-56f9-4c5e-b301-c70160f8e93b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D16.0mm_W5.0mm_P10.00mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L13.5mm_W5.0mm_P10.00mm_FKS3_FKP3_MKS4.step"
 			(offset
 				(xyz 0 0 0)
 			)
