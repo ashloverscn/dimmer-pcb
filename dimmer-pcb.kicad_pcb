@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_5555555d_5555557c)
+			(layerselection 0x00000000_00000000_5555555d_5755557c)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -3526,6 +3526,17 @@
 		(fill no)
 		(layer "F.SilkS")
 		(uuid "8ac6505e-a9d4-4406-831f-096eb7e98ec4")
+	)
+	(gr_rect
+		(start 89.17 106.42)
+		(end 142.33 136.08)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "2422851c-e4fc-4e61-9894-d2a328bf1c49")
 	)
 	(gr_text "SASoftwareS"
 		(at 101.51 134.3 0)
