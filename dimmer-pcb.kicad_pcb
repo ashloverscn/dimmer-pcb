@@ -3552,6 +3552,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Fan"
+		(at 89.31 129.73 0)
+		(layer "F.Fab")
+		(uuid "ac763566-70fb-4e70-8f67-d511c11efc43")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "ZCD"
 		(at 139.77 114.04 0)
 		(layer "F.Fab")
@@ -3604,18 +3616,6 @@
 		(at 89.5 124.64 0)
 		(layer "F.Fab")
 		(uuid "853e8040-55f8-4530-ba9e-be77c2bb9319")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "L"
-		(at 89.52 130.213 0)
-		(layer "F.Fab")
-		(uuid "ac763566-70fb-4e70-8f67-d511c11efc43")
 		(effects
 			(font
 				(size 1 1)
