@@ -80,9 +80,9 @@
 			(sketchdnponfab yes)
 			(crossoutdnponfab yes)
 			(subtractmaskfromsilk no)
-			(outputformat 4)
+			(outputformat 1)
 			(mirror no)
-			(drillshape 2)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -3442,18 +3442,6 @@
 	)
 	(gr_poly
 		(pts
-			(xy 101.52 132.96) (xy 92.02 132.95) (xy 92.02 134.45) (xy 101.52 134.45)
-		)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(fill yes)
-		(layer "B.Mask")
-		(uuid "7e74475d-67ae-48ec-b566-7ee23416b720")
-	)
-	(gr_poly
-		(pts
 			(xy 102.53 113.26) (xy 96.530568 113.26) (xy 96.539034 111.77) (xy 102.53 111.77)
 		)
 		(stroke
@@ -3463,6 +3451,18 @@
 		(fill yes)
 		(layer "B.Mask")
 		(uuid "62014532-f45f-4cc5-8ee6-d53cb56599ff")
+	)
+	(gr_poly
+		(pts
+			(xy 139.762909 133.324729) (xy 130.262909 133.314729) (xy 130.262909 134.814729) (xy 139.762909 134.814729)
+		)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "3dce748f-7df5-400e-aa7b-aeb899c5918f")
 	)
 	(gr_poly
 		(pts
@@ -3550,9 +3550,9 @@
 		(uuid "2422851c-e4fc-4e61-9894-d2a328bf1c49")
 	)
 	(gr_text "SASoftwareS"
-		(at 101.51 134.3 0)
+		(at 139.752909 134.664729 0)
 		(layer "B.Cu")
-		(uuid "f292f7ce-38e8-41d2-a05e-2bde6b280c34")
+		(uuid "f923dc41-32ea-4015-86b5-3cae6b3cf2b0")
 		(effects
 			(font
 				(size 1 1)
@@ -3623,9 +3623,9 @@
 		)
 	)
 	(gr_text "SASoftwareS"
-		(at 92.01 134.3 0)
+		(at 130.252909 134.664729 0)
 		(layer "F.SilkS")
-		(uuid "42cafadd-9cfd-4289-a3ab-183d4403ec64")
+		(uuid "102e382c-debe-46ea-ada6-1076d14d8285")
 		(effects
 			(font
 				(size 1 1)
