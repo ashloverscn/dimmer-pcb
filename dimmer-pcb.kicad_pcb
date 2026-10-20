@@ -1506,7 +1506,7 @@
 			(uuid "9e87172c-4ea6-49fe-8973-a824f15f753a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 -2.37 0)
+			(at 2.835 -1.56 0)
 			(layer "F.Fab")
 			(uuid "a1a617ca-e895-4355-a5ef-d171b83beb88")
 			(effects
@@ -2116,6 +2116,7 @@
 		(property "Reference" "C1"
 			(at 7.5 -4.25 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3682c078-3faa-43fb-85bc-c88aef755ee9")
 			(effects
 				(font
@@ -2125,8 +2126,8 @@
 			)
 		)
 		(property "Value" "104J"
-			(at 7.5 4.25 0)
-			(layer "F.Fab")
+			(at 7.5 0 0)
+			(layer "F.SilkS")
 			(uuid "b991289f-45ca-46c8-bf8d-4335a6aa2f0d")
 			(effects
 				(font
@@ -2244,7 +2245,7 @@
 			(uuid "4d1cfb46-afce-48b1-82a2-15d8792399da")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 7.5 0 0)
+			(at 7.42 1.64 0)
 			(layer "F.Fab")
 			(uuid "141b5863-f4e0-48ba-8cb3-c31c6fa038e8")
 			(effects
@@ -3397,7 +3398,7 @@
 			(uuid "3c26033d-f0de-432b-ab64-f4b2c1d6a1ee")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 -2.37 0)
+			(at 2.73 -0.77 0)
 			(layer "F.Fab")
 			(uuid "fb5e33a9-b5ae-4320-835c-16ec0e24b4c5")
 			(effects
